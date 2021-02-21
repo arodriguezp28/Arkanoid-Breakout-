@@ -24,7 +24,6 @@ public class PantallaGameOver implements Pantalla {
     private Font fuenteGrande = new Font("Arial", Font.BOLD, 30);
     private Font fuenteNormal = new Font("Arial", Font.BOLD, 20);
 
-
     private double tiempo;
     private DecimalFormat formateador = new DecimalFormat("0.00");
 
